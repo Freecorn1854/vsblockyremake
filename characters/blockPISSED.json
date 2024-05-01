@@ -1,75 +1,86 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				184,
 				36
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "left"
+			"fps": 24,
+			"name": "left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-7,
 				-14
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "down"
+			"fps": 24,
+			"name": "down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				2,
 				75
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "up"
+			"fps": 24,
+			"name": "up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-75,
 				-22
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "right"
+			"fps": 24,
+			"name": "right",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "danceLeft",
+			"loop": false,
 			"fps": 24,
-			"name": "dleft",
-			"indices": []
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "dleft"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-6,
 				0
 			],
-			"anim": "danceRight",
+			"loop": false,
 			"fps": 24,
-			"name": "dright",
-			"indices": []
+			"anim": "danceRight",
+			"indices": [],
+			"name": "dright"
+		},
+		{
+			"offsets": [
+				1595,
+				680
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "fling",
+			"loop": false,
+			"name": "fling"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/blockPISSED",
+	"image": "characters/blockpissagain",
 	"position": [
 		30,
 		340
