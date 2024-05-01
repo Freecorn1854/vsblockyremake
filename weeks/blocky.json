@@ -1,20 +1,16 @@
 {
 	"storyName": "Blocky's Funny Doings International",
-	"difficulties": "",
+	"difficulties": "Hard",
 	"hideFreeplay": false,
 	"weekBackground": "blockystage",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Recovery",
@@ -26,7 +22,7 @@
 			]
 		],
 		[
-			"Funny Doings",
+			"Prank",
 			"blocky",
 			[
 				255,
@@ -35,16 +31,20 @@
 			]
 		],
 		[
-			"Prank",
-			"blockmad",
+			"LOL",
+			"dad",
 			[
-				255,
-				40,
-				40
+				146,
+				113,
+				253
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "Vs Blocky",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Vs Blocky"
 }
