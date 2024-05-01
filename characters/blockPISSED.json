@@ -57,25 +57,40 @@
 		},
 		{
 			"offsets": [
-				-6,
+				-5,
 				0
 			],
 			"loop": false,
 			"fps": 24,
+<<<<<<< Updated upstream
 			"anim": "danceRight",
 			"indices": [],
 			"name": "dright"
 		},
 		{
+=======
+			"name": "dright",
+			"indices": []
+		},
+		{
+			"loop": false,
+>>>>>>> Stashed changes
 			"offsets": [
 				1595,
 				680
 			],
+<<<<<<< Updated upstream
 			"indices": [],
 			"fps": 24,
 			"anim": "fling",
 			"loop": false,
 			"name": "fling"
+=======
+			"anim": "fling",
+			"fps": 24,
+			"name": "fling",
+			"indices": []
+>>>>>>> Stashed changes
 		}
 	],
 	"vocals_file": "",
