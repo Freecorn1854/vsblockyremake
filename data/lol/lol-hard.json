@@ -1070,8 +1070,6 @@
 					[
 						20714.2857142857,
 						2,
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						0
 					],
 					[
@@ -1151,15 +1149,12 @@
 						0
 					],
 					[
-=======
 						0
 					],
 					[
-=======
 						0
 					],
 					[
->>>>>>> Stashed changes
 						20785.7142857143,
 						1,
 						0
@@ -1236,10 +1231,6 @@
 						0
 					],
 					[
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 						21714.2857142857,
 						0,
 						250
@@ -1370,10 +1361,6 @@
 						24571.4285714286,
 						2,
 						250
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
 					],
 					[
 						24857.1428571429,
@@ -1382,8 +1369,6 @@
 					],
 					[
 						24857.1428571429,
-<<<<<<< Updated upstream
-=======
 					],
 					[
 						24857.1428571429,
@@ -1392,30 +1377,18 @@
 					],
 					[
 						24857.1428571429,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 						1,
 						214.285714285714
 					]
 				],
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 				"lengthInSteps": 16,
 				"mustHitSection": true
 			},
 			{
-=======
-=======
->>>>>>> Stashed changes
 				"mustHitSection": true
 			},
 			{
 				"lengthInSteps": 16,
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 				"sectionNotes": [
 					[
 						25142.8571428571,
@@ -1472,8 +1445,6 @@
 						1,
 						0
 					],
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 					[
 						25928.5714285714,
 						0,
@@ -1511,11 +1482,8 @@
 						0
 					],
 					[
-=======
 					[
-=======
 					[
->>>>>>> Stashed changes
 						25928.5714285714,
 						0,
 						0
@@ -1552,10 +1520,6 @@
 						0
 					],
 					[
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 						26285.7142857143,
 						0,
 						250
@@ -2373,10 +2337,8 @@
 						37428.5714285714,
 						0,
 						178.571428571429
-<<<<<<< Updated upstream
 					]
 				],
-<<<<<<< HEAD
 				"lengthInSteps": 16,
 				"mustHitSection": false
 			},
@@ -2867,18 +2829,12 @@
 					]
 				],
 				"lengthInSteps": 16,
-=======
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
 					]
 				],
->>>>>>> Stashed changes
 				"mustHitSection": false
 			},
 			{
 				"lengthInSteps": 16,
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
@@ -2903,40 +2859,28 @@
 					],
 					[
 						48428.5714285714,
-=======
 				"sectionNotes": [
 					[
 						37714.2857142857,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
 				"sectionNotes": [
 					[
 						37714.2857142857,
->>>>>>> Stashed changes
 						3,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						48571.4285714286,
 						0,
 						0
 					],
 					[
 						48714.2857142857,
-=======
 						37857.1428571428,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
 						37857.1428571428,
->>>>>>> Stashed changes
 						2,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						48857.1428571429,
 						3,
 						0
@@ -2950,9 +2894,6 @@
 				"altAnim": false,
 				"bpm": 180,
 				"changeBPM": false,
-=======
-=======
->>>>>>> Stashed changes
 						38000,
 						2,
 						0
@@ -2988,23 +2929,14 @@
 						0
 					]
 				],
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 				"mustHitSection": false
 			},
 			{
 				"lengthInSteps": 16,
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						49142.8571428572,
-=======
-=======
->>>>>>> Stashed changes
 				"sectionNotes": [
 					[
 						38857.1428571428,
@@ -3018,34 +2950,22 @@
 					],
 					[
 						39285.7142857143,
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 						2,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						49142.8571428572,
 						3,
 						535.714285714286
 					],
 					[
 						49714.2857142857,
-=======
 						39428.5714285714,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
 						39428.5714285714,
->>>>>>> Stashed changes
 						0,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						49714.2857142857,
 						1,
 						500
@@ -3054,9 +2974,6 @@
 				"altAnim": false,
 				"bpm": 180,
 				"changeBPM": false,
-=======
-=======
->>>>>>> Stashed changes
 						39571.4285714286,
 						1,
 						0
@@ -3082,16 +2999,10 @@
 						0
 					]
 				],
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 				"mustHitSection": false
 			},
 			{
 				"lengthInSteps": 16,
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
@@ -3101,73 +3012,46 @@
 					],
 					[
 						50428.5714285714,
-=======
 				"sectionNotes": [
 					[
 						40000,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
 				"sectionNotes": [
 					[
 						40000,
->>>>>>> Stashed changes
 						1,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						50571.4285714286,
-=======
 						40142.8571428571,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
 						40142.8571428571,
->>>>>>> Stashed changes
 						3,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						50714.2857142857,
 						1,
 						0
 					],
 					[
 						50857.1428571429,
-=======
-=======
->>>>>>> Stashed changes
 						40428.5714285714,
 						2,
 						0
 					],
 					[
 						40571.4285714286,
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 						0,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						51000,
-=======
 						40714.2857142857,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
 						40714.2857142857,
->>>>>>> Stashed changes
 						1,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						51142.8571428571,
 						3,
 						0
@@ -3181,9 +3065,6 @@
 				"altAnim": false,
 				"bpm": 180,
 				"changeBPM": false,
-=======
-=======
->>>>>>> Stashed changes
 						40857.1428571428,
 						0,
 						0
@@ -3255,16 +3136,10 @@
 						178.571428571429
 					]
 				],
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 				"mustHitSection": true
 			},
 			{
 				"lengthInSteps": 16,
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
@@ -3274,39 +3149,24 @@
 					],
 					[
 						51428.5714285714,
-=======
 				"sectionNotes": [
 					[
 						42285.7142857143,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
 				"sectionNotes": [
 					[
 						42285.7142857143,
->>>>>>> Stashed changes
 						3,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						51571.4285714286,
-=======
 						42428.5714285714,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
 						42428.5714285714,
->>>>>>> Stashed changes
 						2,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						51571.4285714286,
-=======
-=======
->>>>>>> Stashed changes
 						42571.4285714286,
 						2,
 						0
@@ -3323,36 +3183,21 @@
 					],
 					[
 						43000,
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 						1,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						51714.2857142857,
-=======
-=======
->>>>>>> Stashed changes
 						43071.4285714286,
 						2,
 						0
 					],
 					[
 						43142.8571428571,
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 						0,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						51714.2857142857,
 						2,
 						0
@@ -3411,24 +3256,15 @@
 				"altAnim": false,
 				"bpm": 180,
 				"changeBPM": false,
-=======
-=======
->>>>>>> Stashed changes
 						43285.7142857143,
 						0,
 						0
 					]
 				],
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 				"mustHitSection": true
 			},
 			{
 				"lengthInSteps": 16,
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
@@ -3438,22 +3274,16 @@
 					],
 					[
 						52714.2857142857,
-=======
 				"sectionNotes": [
 					[
 						43428.5714285714,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
 				"sectionNotes": [
 					[
 						43428.5714285714,
->>>>>>> Stashed changes
 						1,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						52785.7142857143,
 						0,
 						0
@@ -3465,40 +3295,25 @@
 					],
 					[
 						53000,
-=======
 						43571.4285714286,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
 						43571.4285714286,
->>>>>>> Stashed changes
 						3,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						53142.8571428572,
 						0,
 						0
 					],
 					[
 						53285.7142857143,
-=======
 						43857.1428571428,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
 						43857.1428571428,
->>>>>>> Stashed changes
 						2,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						53428.5714285714,
-=======
-=======
->>>>>>> Stashed changes
 						44000,
 						0,
 						0
@@ -3510,16 +3325,10 @@
 					],
 					[
 						44285.7142857143,
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 						3,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						53571.4285714286,
 						1,
 						0
@@ -3528,9 +3337,6 @@
 				"altAnim": false,
 				"bpm": 180,
 				"changeBPM": false,
-=======
-=======
->>>>>>> Stashed changes
 						44357.1428571428,
 						2,
 						0
@@ -3546,23 +3352,14 @@
 						0
 					]
 				],
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 				"mustHitSection": true
 			},
 			{
 				"lengthInSteps": 16,
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						53714.2857142857,
-=======
-=======
->>>>>>> Stashed changes
 				"sectionNotes": [
 					[
 						44571.4285714286,
@@ -3576,34 +3373,22 @@
 					],
 					[
 						45000,
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 						2,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						53714.2857142857,
 						3,
 						535.714285714286
 					],
 					[
 						54285.7142857143,
-=======
 						45142.8571428571,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
 						45142.8571428571,
->>>>>>> Stashed changes
 						0,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						54285.7142857143,
 						1,
 						500
@@ -3612,9 +3397,6 @@
 				"altAnim": false,
 				"bpm": 180,
 				"changeBPM": false,
-=======
-=======
->>>>>>> Stashed changes
 						45285.7142857143,
 						1,
 						0
@@ -3640,16 +3422,10 @@
 						0
 					]
 				],
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 				"mustHitSection": true
 			},
 			{
 				"lengthInSteps": 16,
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
@@ -3706,9 +3482,6 @@
 				"altAnim": false,
 				"bpm": 180,
 				"changeBPM": false,
-=======
-=======
->>>>>>> Stashed changes
 				"sectionNotes": [
 					[
 						45714.2857142857,
@@ -3751,16 +3524,10 @@
 						0
 					]
 				],
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 				"mustHitSection": false
 			},
 			{
 				"lengthInSteps": 16,
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
@@ -3770,9 +3537,6 @@
 					],
 					[
 						56142.8571428571,
-=======
-=======
->>>>>>> Stashed changes
 				"sectionNotes": [
 					[
 						46857.1428571429,
@@ -3786,34 +3550,22 @@
 					],
 					[
 						47000,
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 						2,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						56285.7142857143,
 						0,
 						0
 					],
 					[
 						56428.5714285714,
-=======
 						47000,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
 						47000,
->>>>>>> Stashed changes
 						1,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						56571.4285714286,
 						3,
 						178.571428571429
@@ -3832,9 +3584,6 @@
 				"altAnim": false,
 				"bpm": 180,
 				"changeBPM": false,
-=======
-=======
->>>>>>> Stashed changes
 						47142.8571428571,
 						0,
 						0
@@ -3895,37 +3644,22 @@
 						0
 					]
 				],
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 				"mustHitSection": false
 			},
 			{
 				"sectionNotes": [
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						57142.8571428571,
-=======
-=======
->>>>>>> Stashed changes
 						48000,
 						2,
 						0
 					],
 					[
 						48142.8571428572,
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 						1,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						57285.7142857143,
 						2,
 						0
@@ -3969,9 +3703,6 @@
 						57714.2857142857,
 						0,
 						0
-=======
-=======
->>>>>>> Stashed changes
 						48214.2857142857,
 						0,
 						0
@@ -4005,10 +3736,6 @@
 						49000,
 						1,
 						0
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 					]
 				],
 				"typeOfSection": 0,
@@ -4021,26 +3748,18 @@
 			{
 				"sectionNotes": [
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						58285.7142857143,
 						1,
 						0
 					],
 					[
 						58428.5714285714,
-=======
 						49142.8571428572,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
 						49142.8571428572,
->>>>>>> Stashed changes
 						2,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						58571.4285714286,
 						0,
 						0
@@ -4057,38 +3776,25 @@
 					],
 					[
 						58285.7142857143,
-=======
-=======
->>>>>>> Stashed changes
 						49142.8571428572,
 						3,
 						535.714285714286
 					],
 					[
 						49714.2857142857,
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 						0,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						58857.1428571429,
 						2,
 						0
-=======
 						49714.2857142857,
 						1,
 						500
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
 						49714.2857142857,
 						1,
 						500
->>>>>>> Stashed changes
 					]
 				],
 				"typeOfSection": 0,
@@ -4101,8 +3807,6 @@
 			{
 				"sectionNotes": [
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						59428.5714285714,
 						6,
 						0
@@ -4156,7 +3860,6 @@
 						60000,
 						0,
 						0
-=======
 						50285.7142857143,
 						0,
 						0
@@ -4195,7 +3898,6 @@
 						51285.7142857143,
 						1,
 						0
->>>>>>> Stashed changes
 					]
 				],
 				"typeOfSection": 0,
@@ -4208,7 +3910,6 @@
 			{
 				"sectionNotes": [
 					[
-<<<<<<< Updated upstream
 						60571.4285714286,
 						1,
 						0
@@ -4220,14 +3921,11 @@
 					],
 					[
 						60857.1428571429,
-=======
 						51428.5714285714,
->>>>>>> Stashed changes
 						0,
 						0
 					],
 					[
-<<<<<<< Updated upstream
 						61000,
 						1,
 						0
@@ -4246,7 +3944,6 @@
 						60571.4285714286,
 						0,
 						0
-=======
 						51428.5714285714,
 						3,
 						0
@@ -4320,7 +4017,6 @@
 						52428.5714285714,
 						3,
 						0
->>>>>>> Stashed changes
 					]
 				],
 				"typeOfSection": 0,
@@ -4333,21 +4029,17 @@
 			{
 				"sectionNotes": [
 					[
-<<<<<<< Updated upstream
 						61714.2857142857,
-=======
 						52571.4285714286,
 						2,
 						0
 					],
 					[
 						52714.2857142857,
->>>>>>> Stashed changes
 						1,
 						0
 					],
 					[
-<<<<<<< Updated upstream
 						61785.7142857143,
 						1,
 						0
@@ -4391,76 +4083,57 @@
 						62285.7142857143,
 						0,
 						0
-=======
 						50285.7142857143,
-=======
 						52785.7142857143,
->>>>>>> Stashed changes
 						0,
 						0
 					],
 					[
-<<<<<<< Updated upstream
 						50428.5714285714,
-=======
 						52857.1428571429,
->>>>>>> Stashed changes
 						1,
 						0
 					],
 					[
-<<<<<<< Updated upstream
 						50571.4285714286,
-=======
 						53000,
->>>>>>> Stashed changes
 						3,
 						0
 					],
 					[
-<<<<<<< Updated upstream
 						50714.2857142857,
 						1,
 						0
 					],
 					[
 						50857.1428571429,
-=======
 						53142.8571428572,
->>>>>>> Stashed changes
 						0,
 						0
 					],
 					[
-<<<<<<< Updated upstream
 						51000,
 						1,
 						0
 					],
 					[
 						51142.8571428571,
-=======
 						53285.7142857143,
 						2,
 						0
 					],
 					[
 						53428.5714285714,
->>>>>>> Stashed changes
 						3,
 						0
 					],
 					[
-<<<<<<< Updated upstream
 						51285.7142857143,
 						1,
 						0
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
 						53571.4285714286,
 						1,
 						0
->>>>>>> Stashed changes
 					]
 				],
 				"typeOfSection": 0,
@@ -4473,7 +4146,6 @@
 			{
 				"sectionNotes": [
 					[
-<<<<<<< Updated upstream
 						51428.5714285714,
 						0,
 						0
@@ -4555,7 +4227,6 @@
 					]
 				],
 				"typeOfSection": 0,
-<<<<<<< HEAD
 				"sectionNotes": [
 					[
 						62857.1428571429,
@@ -4588,9 +4259,7 @@
 						0
 					]
 				],
-=======
 				"lengthInSteps": 16,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
@@ -4645,7 +4314,6 @@
 					]
 				],
 				"typeOfSection": 0,
-<<<<<<< HEAD
 				"sectionNotes": [
 					[
 						64000,
@@ -4708,9 +4376,7 @@
 						0
 					]
 				],
-=======
 				"lengthInSteps": 16,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
@@ -4719,20 +4385,13 @@
 			{
 				"sectionNotes": [
 					[
-<<<<<<< HEAD
 						65142.8571428571,
-=======
 						53714.2857142857,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
 						53714.2857142857,
->>>>>>> Stashed changes
 						2,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						65142.8571428571,
 						0,
 						250
@@ -4759,31 +4418,19 @@
 					],
 					[
 						66000,
-=======
-=======
->>>>>>> Stashed changes
 						53714.2857142857,
 						3,
 						535.714285714286
 					],
 					[
 						54285.7142857143,
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 						0,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						66000,
 						1,
 						214.285714285714
-=======
-=======
->>>>>>> Stashed changes
 						54285.7142857143,
 						1,
 						500
@@ -4892,10 +4539,6 @@
 						56000,
 						0,
 						0
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 					]
 				],
 				"typeOfSection": 0,
@@ -4910,8 +4553,6 @@
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						66285.7142857143,
 						3,
 						0
@@ -4928,18 +4569,12 @@
 					],
 					[
 						66500,
-=======
 						57142.8571428571,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
 						57142.8571428571,
->>>>>>> Stashed changes
 						1,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						66571.4285714286,
 						0,
 						0
@@ -4998,9 +4633,6 @@
 						67357.1428571429,
 						2,
 						0
-=======
-=======
->>>>>>> Stashed changes
 						57285.7142857143,
 						2,
 						0
@@ -5044,10 +4676,6 @@
 						57714.2857142857,
 						0,
 						0
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 					]
 				],
 				"altAnim": false,
@@ -5056,8 +4684,6 @@
 				"mustHitSection": false
 			},
 			{
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 				"sectionBeats": 4,
 				"sectionNotes": [
 					[
@@ -5072,24 +4698,15 @@
 					],
 					[
 						67714.2857142857,
-=======
-=======
->>>>>>> Stashed changes
 				"lengthInSteps": 16,
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
 						58285.7142857143,
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 						1,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						67714.2857142857,
 						3,
 						214.285714285714
@@ -5106,9 +4723,6 @@
 					],
 					[
 						68285.7142857143,
-=======
-=======
->>>>>>> Stashed changes
 						58428.5714285714,
 						2,
 						0
@@ -5130,25 +4744,16 @@
 					],
 					[
 						58285.7142857143,
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 						0,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						68285.7142857143,
 						1,
 						214.285714285714
 					]
 				],
 				"gfSection": false,
-=======
-=======
->>>>>>> Stashed changes
 						58857.1428571429,
 						2,
 						0
@@ -5425,37 +5030,25 @@
 						65000,
 						3,
 						0
-<<<<<<< Updated upstream
-=======
 					],
 					[
 						64000,
 						6,
 						0
->>>>>>> Stashed changes
 					]
 				],
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 				"altAnim": false,
 				"mustHitSection": false,
 				"changeBPM": false,
 				"bpm": 180
 			},
 			{
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 				"sectionBeats": 4,
 				"sectionNotes": [
 					[
 						68571.4285714286,
-=======
-=======
->>>>>>> Stashed changes
 				"lengthInSteps": 16,
 				"typeOfSection": 0,
 				"sectionNotes": [
@@ -5471,16 +5064,10 @@
 					],
 					[
 						65428.5714285714,
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 						1,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						68714.2857142857,
 						2,
 						0
@@ -5497,25 +5084,16 @@
 					],
 					[
 						69000,
-=======
-=======
->>>>>>> Stashed changes
 						65428.5714285714,
 						3,
 						214.285714285714
 					],
 					[
 						65714.2857142857,
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 						1,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						69071.4285714286,
 						2,
 						0
@@ -5532,25 +5110,16 @@
 					],
 					[
 						69357.1428571429,
-=======
-=======
->>>>>>> Stashed changes
 						65714.2857142857,
 						2,
 						250
 					],
 					[
 						66000,
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
->>>>>>> Stashed changes
 						0,
 						0
 					],
 					[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 						69428.5714285714,
 						2,
 						0
@@ -5562,16 +5131,11 @@
 					]
 				],
 				"gfSection": false,
-=======
-=======
->>>>>>> Stashed changes
 						66000,
 						1,
 						214.285714285714
 					]
 				],
-<<<<<<< Updated upstream
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"altAnim": false,
 				"bpm": 180,
 				"changeBPM": false,
@@ -5711,7 +5275,6 @@
 					]
 				],
 				"sectionBeats": 4,
-<<<<<<< HEAD
 				"sectionNotes": [
 					[
 						69714.2857142857,
@@ -5754,8 +5317,6 @@
 						214.285714285714
 					]
 				],
-=======
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"gfSection": false,
 				"altAnim": false,
 				"bpm": 180,
@@ -5821,7 +5382,6 @@
 					]
 				],
 				"sectionBeats": 4,
-<<<<<<< HEAD
 				"sectionNotes": [
 					[
 						70857.1428571429,
@@ -5904,8 +5464,6 @@
 						0
 					]
 				],
-=======
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"gfSection": false,
 				"altAnim": false,
 				"bpm": 180,
@@ -5956,7 +5514,6 @@
 					]
 				],
 				"sectionBeats": 4,
-<<<<<<< HEAD
 				"sectionNotes": [
 					[
 						72000,
@@ -5999,18 +5556,14 @@
 						214.285714285714
 					]
 				],
-=======
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"gfSection": false,
 				"altAnim": false,
 				"bpm": 180,
 				"changeBPM": false,
-<<<<<<< HEAD
 				"bpm": 180
 			},
 			{
 				"sectionBeats": 4,
-=======
 				"mustHitSection": true
 			},
 			{
@@ -6156,7 +5709,6 @@
 			{
 				"gfSection": false,
 				"altAnim": false,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"sectionNotes": [
 					[
 						73142.8571428571,
@@ -6229,7 +5781,6 @@
 						0
 					]
 				],
-<<<<<<< HEAD
 				"gfSection": false,
 				"altAnim": false,
 				"mustHitSection": false,
@@ -6238,7 +5789,6 @@
 			},
 			{
 				"sectionBeats": 4,
-=======
 				"bpm": 210,
 				"sectionBeats": 4,
 				"changeBPM": false,
@@ -6247,7 +5797,6 @@
 			{
 				"gfSection": false,
 				"altAnim": false,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"sectionNotes": [
 					[
 						74285.7142857143,
@@ -6335,7 +5884,6 @@
 						0
 					]
 				],
-<<<<<<< HEAD
 				"gfSection": false,
 				"altAnim": false,
 				"mustHitSection": false,
@@ -6344,7 +5892,6 @@
 			},
 			{
 				"sectionBeats": 4,
-=======
 				"bpm": 210,
 				"sectionBeats": 4,
 				"changeBPM": false,
@@ -6353,7 +5900,6 @@
 			{
 				"gfSection": false,
 				"altAnim": false,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"sectionNotes": [
 					[
 						75428.5714285714,
@@ -6486,7 +6032,6 @@
 						0
 					]
 				],
-<<<<<<< HEAD
 				"gfSection": false,
 				"altAnim": false,
 				"mustHitSection": false,
@@ -6495,7 +6040,6 @@
 			},
 			{
 				"sectionBeats": 4,
-=======
 				"bpm": 210,
 				"sectionBeats": 4,
 				"changeBPM": false,
@@ -6504,7 +6048,6 @@
 			{
 				"gfSection": false,
 				"altAnim": false,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"sectionNotes": [
 					[
 						76571.4285714285,
@@ -6562,7 +6105,6 @@
 						500
 					]
 				],
-<<<<<<< HEAD
 				"gfSection": false,
 				"altAnim": false,
 				"mustHitSection": false,
@@ -6571,7 +6113,6 @@
 			},
 			{
 				"sectionBeats": 4,
-=======
 				"bpm": 210,
 				"sectionBeats": 4,
 				"changeBPM": false,
@@ -6580,7 +6121,6 @@
 			{
 				"gfSection": false,
 				"altAnim": false,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"sectionNotes": [
 					[
 						77714.2857142857,
@@ -6658,10 +6198,7 @@
 						0
 					]
 				],
-<<<<<<< HEAD
 				"gfSection": false,
-=======
->>>>>>> Stashed changes
 				"altAnim": false,
 				"bpm": 180,
 				"changeBPM": false,
@@ -6759,7 +6296,6 @@
 			},
 			{
 				"sectionBeats": 4,
-=======
 				"bpm": 210,
 				"sectionBeats": 4,
 				"changeBPM": false,
@@ -6768,7 +6304,6 @@
 			{
 				"gfSection": false,
 				"altAnim": false,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"sectionNotes": [
 					[
 						78857.1428571428,
@@ -6856,7 +6391,6 @@
 						0
 					]
 				],
-<<<<<<< HEAD
 				"gfSection": false,
 				"altAnim": false,
 				"mustHitSection": true,
@@ -6865,7 +6399,6 @@
 			},
 			{
 				"sectionBeats": 4,
-=======
 				"bpm": 210,
 				"sectionBeats": 4,
 				"changeBPM": false,
@@ -6874,7 +6407,6 @@
 			{
 				"gfSection": false,
 				"altAnim": false,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"sectionNotes": [
 					[
 						80000,
@@ -7007,7 +6539,6 @@
 						0
 					]
 				],
-<<<<<<< HEAD
 				"gfSection": false,
 				"altAnim": false,
 				"mustHitSection": true,
@@ -7016,7 +6547,6 @@
 			},
 			{
 				"sectionBeats": 4,
-=======
 				"bpm": 210,
 				"sectionBeats": 4,
 				"changeBPM": false,
@@ -7025,7 +6555,6 @@
 			{
 				"gfSection": false,
 				"altAnim": false,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"sectionNotes": [
 					[
 						81142.8571428571,
@@ -7083,7 +6612,6 @@
 						500
 					]
 				],
-<<<<<<< HEAD
 				"gfSection": false,
 				"altAnim": false,
 				"mustHitSection": true,
@@ -7092,7 +6620,6 @@
 			},
 			{
 				"sectionBeats": 4,
-=======
 				"bpm": 210,
 				"sectionBeats": 4,
 				"changeBPM": false,
@@ -7101,7 +6628,6 @@
 			{
 				"gfSection": false,
 				"altAnim": false,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"sectionNotes": [
 					[
 						82285.7142857143,
@@ -7154,7 +6680,6 @@
 						0
 					]
 				],
-<<<<<<< HEAD
 				"gfSection": false,
 				"altAnim": false,
 				"mustHitSection": false,
@@ -7163,7 +6688,6 @@
 			},
 			{
 				"sectionBeats": 4,
-=======
 				"bpm": 210,
 				"sectionBeats": 4,
 				"changeBPM": false,
@@ -7172,7 +6696,6 @@
 			{
 				"gfSection": false,
 				"altAnim": false,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"sectionNotes": [
 					[
 						83428.5714285714,
@@ -7210,7 +6733,6 @@
 						0
 					]
 				],
-<<<<<<< HEAD
 				"gfSection": false,
 				"altAnim": false,
 				"mustHitSection": false,
@@ -7219,7 +6741,6 @@
 			},
 			{
 				"sectionBeats": 4,
-=======
 				"bpm": 210,
 				"sectionBeats": 4,
 				"changeBPM": false,
@@ -7228,7 +6749,6 @@
 			{
 				"gfSection": false,
 				"altAnim": false,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"sectionNotes": [
 					[
 						84571.4285714286,
@@ -7281,7 +6801,6 @@
 						0
 					]
 				],
-<<<<<<< HEAD
 				"gfSection": false,
 				"altAnim": false,
 				"mustHitSection": false,
@@ -7290,7 +6809,6 @@
 			},
 			{
 				"sectionBeats": 4,
-=======
 				"bpm": 210,
 				"sectionBeats": 4,
 				"changeBPM": false,
@@ -7299,7 +6817,6 @@
 			{
 				"gfSection": false,
 				"altAnim": false,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"sectionNotes": [
 					[
 						85714.2857142857,
@@ -7337,7 +6854,6 @@
 						0
 					]
 				],
-<<<<<<< HEAD
 				"gfSection": false,
 				"altAnim": false,
 				"mustHitSection": false,
@@ -7346,7 +6862,6 @@
 			},
 			{
 				"sectionBeats": 4,
-=======
 				"bpm": 210,
 				"sectionBeats": 4,
 				"changeBPM": false,
@@ -7355,7 +6870,6 @@
 			{
 				"gfSection": false,
 				"altAnim": false,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"sectionNotes": [
 					[
 						86857.1428571429,
@@ -7413,7 +6927,6 @@
 						0
 					]
 				],
-<<<<<<< HEAD
 				"gfSection": false,
 				"altAnim": false,
 				"mustHitSection": true,
@@ -7422,7 +6935,6 @@
 			},
 			{
 				"sectionBeats": 4,
-=======
 				"bpm": 210,
 				"sectionBeats": 4,
 				"changeBPM": false,
@@ -7431,7 +6943,6 @@
 			{
 				"gfSection": false,
 				"altAnim": false,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"sectionNotes": [
 					[
 						88000,
@@ -7469,7 +6980,6 @@
 						0
 					]
 				],
-<<<<<<< HEAD
 				"gfSection": false,
 				"altAnim": false,
 				"mustHitSection": true,
@@ -7478,7 +6988,6 @@
 			},
 			{
 				"sectionBeats": 4,
-=======
 				"bpm": 210,
 				"sectionBeats": 4,
 				"changeBPM": false,
@@ -7487,7 +6996,6 @@
 			{
 				"gfSection": false,
 				"altAnim": false,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"sectionNotes": [
 					[
 						89142.8571428571,
@@ -7540,7 +7048,6 @@
 						0
 					]
 				],
-<<<<<<< HEAD
 				"gfSection": false,
 				"altAnim": false,
 				"mustHitSection": true,
@@ -7549,7 +7056,6 @@
 			},
 			{
 				"sectionBeats": 4,
-=======
 				"bpm": 210,
 				"sectionBeats": 4,
 				"changeBPM": false,
@@ -7558,7 +7064,6 @@
 			{
 				"gfSection": false,
 				"altAnim": false,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"sectionNotes": [
 					[
 						90285.7142857143,
@@ -7591,7 +7096,6 @@
 						0
 					]
 				],
-<<<<<<< HEAD
 				"gfSection": false,
 				"altAnim": false,
 				"mustHitSection": true,
@@ -7600,7 +7104,6 @@
 			},
 			{
 				"sectionBeats": 4,
-=======
 				"bpm": 210,
 				"sectionBeats": 4,
 				"changeBPM": false,
@@ -7609,7 +7112,6 @@
 			{
 				"gfSection": false,
 				"altAnim": false,
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
 				"sectionNotes": [
 					[
 						91428.5714285715,
@@ -7617,7 +7119,6 @@
 						0
 					]
 				],
-<<<<<<< HEAD
 				"gfSection": false,
 				"altAnim": false,
 				"mustHitSection": false,
@@ -7672,11 +7173,8 @@
 				"altAnim": false,
 				"bpm": 180,
 				"changeBPM": false,
-<<<<<<< Updated upstream
 				"bpm": 210
-=======
 				"mustHitSection": false
->>>>>>> Stashed changes
 			},
 			{
 				"sectionNotes": [
@@ -7741,7 +7239,6 @@
 				"altAnim": false,
 				"bpm": 180,
 				"changeBPM": false,
-<<<<<<< Updated upstream
 				"bpm": 210
 			}
 		],
@@ -7759,7 +7256,6 @@
 				]
 			]
 		],
-=======
 				"bpm": 210,
 				"sectionBeats": 4,
 				"changeBPM": false,
@@ -7784,8 +7280,6 @@
 				"mustHitSection": true
 			}
 		],
->>>>>>> 7024c1ec13625ddaef6b3bb8fdfd9316eeb7b83a
-=======
 				"mustHitSection": true
 			},
 			{
@@ -9202,7 +8696,6 @@
 				"mustHitSection": true
 			}
 		],
->>>>>>> Stashed changes
 		"player3": null,
 		"song": "LOL",
 		"stage": "blockystage",
