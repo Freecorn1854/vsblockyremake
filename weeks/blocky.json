@@ -3,18 +3,14 @@
 	"difficulties": "Hard",
 	"hideFreeplay": false,
 	"weekBackground": "blockystage",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Recovery",
@@ -35,7 +31,7 @@
 			]
 		],
 		[
-			"LOL",
+			"Last Laugh",
 			"blockmad",
 			[
 				255,
@@ -44,7 +40,11 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "Vs Blocky",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Vs Blocky"
 }

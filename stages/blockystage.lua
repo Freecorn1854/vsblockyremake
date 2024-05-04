@@ -18,7 +18,7 @@ function onCreate()
 	-- sprites that only load if Low Quality is turned off
 	if not lowQuality then
 
-		makeLuaSprite('stagecurtainsblock', 'stagecurtainsblock', -500, -300);
+		makeLuaSprite('stagecurtainsblock', 'stagecurtainsblock', -500, -240);
 		setScrollFactor('stagecurtainsblock', 1.3, 1.3);
 		scaleObject('stagecurtainsblock', 0.9, 0.9);
 	end
