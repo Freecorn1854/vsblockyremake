@@ -8,22 +8,23 @@
 
 function onCreate()
 	-- background shit
-	makeLuaSprite('stagebackblock', 'stagebackblock', -600, -300);
-	setScrollFactor('stagebackblock', 0.9, 0.9);
+	makeLuaSprite('sky', 'sky', -600, -300);
+	setScrollFactor('sky', 0.3, 0.3);
+	scaleObject('sky', 1.75, 1.75);
 	
-	makeLuaSprite('stagefrontblock', 'stagefrontblock', -650, 600);
-	setScrollFactor('stagefrontblock', 0.9, 0.9);
-	scaleObject('stagefrontblock', 1.1, 1.1);
+	makeLuaSprite('grass', 'grass', -300, -200);
+	setScrollFactor('grass', 0.9, 0.9);
+	scaleObject('grass', 1.5, 1.5);
 
 	-- sprites that only load if Low Quality is turned off
 	if not lowQuality then
 
-		makeLuaSprite('stagecurtainsblock', 'stagecurtainsblock', -500, -240);
-		setScrollFactor('stagecurtainsblock', 1.3, 1.3);
-		scaleObject('stagecurtainsblock', 0.9, 0.9);
+		makeLuaSprite('recoveryc', 'recoveryc', -500, -240);
+		setScrollFactor('recoveryc', 1.3, 1.3);
+		scaleObject('recoveryc', 0.9, 0.9);
 	end
 
-	addLuaSprite('stagebackblock', false);
-	addLuaSprite('stagefrontblock', false);
-	addLuaSprite('stagecurtainsblock', false);
+	addLuaSprite('sky', false);
+	addLuaSprite('grass', false);
+	addLuaSprite('recoveryc', false);
 end

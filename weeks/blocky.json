@@ -23,7 +23,7 @@
 		],
 		[
 			"Prank",
-			"blocky",
+			"blockmad",
 			[
 				255,
 				40,
@@ -32,7 +32,7 @@
 		],
 		[
 			"Last Laugh",
-			"blockmad",
+			"blockpissed",
 			[
 				255,
 				40,
@@ -41,7 +41,7 @@
 		]
 	],
 	"weekCharacters": [
-		"dad",
+		"block",
 		"bf",
 		"gf"
 	],

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dancin.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="speakerleft0000" x="4" y="4" width="453" height="595" pivotX="13" pivotY="2" frameX="-14" frameY="-18" frameWidth="467" frameHeight="615"/>
+	<SubTexture name="speakerleft0001" x="4" y="4" width="453" height="595" frameX="-14" frameY="-18" frameWidth="467" frameHeight="615"/>
+	<SubTexture name="speakerleft0002" x="461" y="4" width="443" height="611" frameX="0" frameY="-4" frameWidth="467" frameHeight="615"/>
+	<SubTexture name="speakerleft0003" x="908" y="4" width="443" height="615" frameX="0" frameY="0" frameWidth="467" frameHeight="615"/>
+	<SubTexture name="speakerleft0004" x="908" y="4" width="443" height="615" frameX="0" frameY="0" frameWidth="467" frameHeight="615"/>
+	<SubTexture name="speakerleft0005" x="908" y="4" width="443" height="615" frameX="0" frameY="0" frameWidth="467" frameHeight="615"/>
+	<SubTexture name="speakerleft0006" x="908" y="4" width="443" height="615" frameX="0" frameY="0" frameWidth="467" frameHeight="615"/>
+	<SubTexture name="speakerleft0007" x="908" y="4" width="443" height="615" frameX="0" frameY="0" frameWidth="467" frameHeight="615"/>
+	<SubTexture name="speakerleft0008" x="908" y="4" width="443" height="615" frameX="0" frameY="0" frameWidth="467" frameHeight="615"/>
+	<SubTexture name="speakerleft0009" x="908" y="4" width="443" height="615" frameX="0" frameY="0" frameWidth="467" frameHeight="615"/>
+	<SubTexture name="speakerright0000" x="1355" y="4" width="458" height="597" pivotX="30.3" pivotY="4" frameX="0" frameY="-19" frameWidth="461" frameHeight="617"/>
+	<SubTexture name="speakerright0001" x="4" y="623" width="454" height="603" frameX="-5" frameY="-13" frameWidth="461" frameHeight="617"/>
+	<SubTexture name="speakerright0002" x="462" y="623" width="442" height="614" frameX="-19" frameY="-3" frameWidth="461" frameHeight="617"/>
+	<SubTexture name="speakerright0003" x="908" y="623" width="442" height="617" frameX="-19" frameY="0" frameWidth="461" frameHeight="617"/>
+	<SubTexture name="speakerright0004" x="908" y="623" width="442" height="617" frameX="-19" frameY="0" frameWidth="461" frameHeight="617"/>
+	<SubTexture name="speakerright0005" x="908" y="623" width="442" height="617" frameX="-19" frameY="0" frameWidth="461" frameHeight="617"/>
+	<SubTexture name="speakerright0006" x="908" y="623" width="442" height="617" frameX="-19" frameY="0" frameWidth="461" frameHeight="617"/>
+	<SubTexture name="speakerright0007" x="908" y="623" width="442" height="617" frameX="-19" frameY="0" frameWidth="461" frameHeight="617"/>
+	<SubTexture name="speakerright0008" x="908" y="623" width="442" height="617" frameX="-19" frameY="0" frameWidth="461" frameHeight="617"/>
+	<SubTexture name="speakerright0009" x="908" y="623" width="442" height="617" frameX="-19" frameY="0" frameWidth="461" frameHeight="617"/>
+</TextureAtlas>

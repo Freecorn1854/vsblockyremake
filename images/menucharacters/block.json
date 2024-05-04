@@ -1,0 +1,11 @@
+{
+	
+	"image": "block",
+	"position": [
+		75,
+		0
+	],
+	"scale": 0.7,
+	"idle_anim": "story block",
+	"confirm_anim": "story block"
+}

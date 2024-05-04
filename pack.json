@@ -1,9 +1,9 @@
 {
-	"name": "Vs. Blocky",
-	"description": "ur mom",
+	"name": "Vs. Blocky REMIX",
+	"description": "a remake of our 2021 mod!",
 	"restart":false,
 	"runsGlobally": false,
-	"color": [170, 0, 255],
+	"color": [255, 0, 43],
 	"discordRPC": "863222024192262205",
 	"iconFramerate": 10
 }

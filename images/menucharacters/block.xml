@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="block.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="story block0000" x="4" y="4" width="324" height="374" pivotX="38.35" pivotY="-11.05" frameX="-25" frameY="-5" frameWidth="349" frameHeight="379"/>
+	<SubTexture name="story block0001" x="4" y="4" width="324" height="374" frameX="-25" frameY="-5" frameWidth="349" frameHeight="379"/>
+	<SubTexture name="story block0002" x="332" y="4" width="322" height="375" frameX="-25" frameY="-4" frameWidth="349" frameHeight="379"/>
+	<SubTexture name="story block0003" x="332" y="4" width="322" height="375" frameX="-25" frameY="-4" frameWidth="349" frameHeight="379"/>
+	<SubTexture name="story block0004" x="658" y="4" width="328" height="378" frameX="-8" frameY="-1" frameWidth="349" frameHeight="379"/>
+	<SubTexture name="story block0005" x="658" y="4" width="328" height="378" frameX="-8" frameY="-1" frameWidth="349" frameHeight="379"/>
+	<SubTexture name="story block0006" x="4" y="386" width="332" height="379" frameX="-2" frameY="0" frameWidth="349" frameHeight="379"/>
+	<SubTexture name="story block0007" x="4" y="386" width="332" height="379" frameX="-2" frameY="0" frameWidth="349" frameHeight="379"/>
+	<SubTexture name="story block0008" x="340" y="386" width="334" height="379" frameX="0" frameY="0" frameWidth="349" frameHeight="379"/>
+	<SubTexture name="story block0009" x="340" y="386" width="334" height="379" frameX="0" frameY="0" frameWidth="349" frameHeight="379"/>
+	<SubTexture name="story block0010" x="340" y="386" width="334" height="379" frameX="0" frameY="0" frameWidth="349" frameHeight="379"/>
+	<SubTexture name="story block0011" x="340" y="386" width="334" height="379" frameX="0" frameY="0" frameWidth="349" frameHeight="379"/>
+	<SubTexture name="story block0012" x="340" y="386" width="334" height="379" frameX="0" frameY="0" frameWidth="349" frameHeight="379"/>
+	<SubTexture name="story block0013" x="340" y="386" width="334" height="379" frameX="0" frameY="0" frameWidth="349" frameHeight="379"/>
+</TextureAtlas>
