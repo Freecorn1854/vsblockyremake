@@ -12,7 +12,7 @@ function onCreate()
 	setScrollFactor('sky', 0.3, 0.3);
 	scaleObject('sky', 1.75, 1.75);
 	
-	makeLuaSprite('grass', 'grass', -300, -200);
+	makeLuaSprite('grass', 'grass', -325, -200);
 	setScrollFactor('grass', 0.9, 0.9);
 	scaleObject('grass', 1.5, 1.5);
 
