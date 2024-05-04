@@ -1,4 +1,4 @@
-non source code for "Vs Blocky Remake"
+*not really* source code for "Vs Blocky Remake"
 
 CREDITS:
 
